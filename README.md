@@ -1,5 +1,3 @@
-George Zuo test
-
 # Unix shell
 
 ## Content
